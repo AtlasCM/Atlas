@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Atlas\CM
+        psr4_prefix: Atlas\CM
+        src_path: app
